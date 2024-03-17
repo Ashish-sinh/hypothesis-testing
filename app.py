@@ -101,5 +101,3 @@ def set_bg_hack_url(url):
      )
 
 set_bg_hack_url("https://static.vecteezy.com/system/resources/thumbnails/008/617/161/small/abstract-gradient-pastel-blue-and-purple-background-neon-pastel-color-template-for-website-or-presentation-free-free-vector.jpg")
-
-st.check_is_dark_mode()
